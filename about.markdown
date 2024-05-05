@@ -12,6 +12,9 @@ I grew up in the Midwest (Michigan) and am currently a shareholder warrior for a
 
 All opinions are my own.
 
+![]({{ site.base_url }}{% link /assets/imgs/IMG_1920.jpeg %})
+
+
  
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
