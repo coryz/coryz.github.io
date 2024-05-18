@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thoughts on AI -- WIP?"
+title:  "Thoughts on AI"
 date:   2024-05-13
 categories: Cory's Blog
 ---
